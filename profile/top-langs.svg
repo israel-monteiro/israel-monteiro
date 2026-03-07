@@ -130,35 +130,35 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="153.01"
+          width="143.2"
           height="8"
-          fill="#e34c26"
+          fill="#663399"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="153.01"
+          x="143.2"
           y="0"
-          width="96.99"
+          width="106.8"
           height="8"
-          fill="#663399"
+          fill="#e34c26"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 61.21%
+        CSS 57.28%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 38.79%
+        HTML 42.72%
       </text>
     </g>
   </g></g>
