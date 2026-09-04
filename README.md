@@ -21,3 +21,5 @@
  <a href="https://discord.gg/MPM45GgZwG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:israelmonteiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+[![Israel Monteiro GitHub stats](https://github-stats-extended.vercel.app/api?username=israel-monteiro)](https://github.com/stats-organization/github-stats-extended)
