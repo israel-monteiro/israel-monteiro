@@ -1,28 +1,24 @@
 # Hi, I'm Israel Monteiro 👋
 
-### Front-End Developer
+### Front-End Developer | React & TypeScript
 
-I'm a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
+I'm building my career in Front-End Development, creating practical projects with **React, TypeScript, JavaScript, and Tailwind CSS**.
 
-I work mainly with **React, TypeScript, JavaScript, and Tailwind CSS**, applying concepts such as componentization, state management, API integration, routing, form validation, and responsive design.
-
-Currently, I'm expanding my knowledge in **back-end development and databases** to become a Full-Stack Developer.
+I'm currently looking for my **first opportunity as a developer**, while continuing to improve my front-end skills and expand my knowledge in **back-end development and databases**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div>
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-<br>
 
 ---
 
@@ -30,65 +26,35 @@ Currently, I'm expanding my knowledge in **back-end development and databases** 
 
 ### 👟 Syntax Wear
 
-E-commerce application built with **React, TypeScript, Tailwind CSS, and TanStack Router**.
+E-commerce application built with **React, TypeScript, Tailwind CSS, and TanStack Router**, featuring product browsing, shopping cart, form validation, and shipping calculation.
 
-Main features:
-- Product catalog and product details
-- Shopping cart
-- CEP and shipping calculation
-- Form validation
-- Responsive interface
-- Local storage persistence
-
-**[View Repository](COLOQUE-AQUI-O-LINK)** · **[Live Demo](COLOQUE-AQUI-O-LINK)**
-
----
+[Repository](https://github.com/israel-monteiro/syntax-wear-app) · [Live Demo](COLOQUE_O_LINK_DO_DEPLOY)
 
 ### 💬 Interactive Comments
 
-Interactive comments application built with **React, TypeScript, and Tailwind CSS**.
+Interactive comment system built with **React and TypeScript**, featuring comments, replies, editing, deletion, and voting.
 
-Main features:
-- Create, edit, and delete comments
-- Reply system
-- Voting system
-- Component-based architecture
-- Responsive layout
-
-**[View Repository](COLOQUE-AQUI-O-LINK)** · **[Live Demo](COLOQUE-AQUI-O-LINK)**
-
----
+[Repository](COLOQUE_O_LINK_DO_REPOSITORIO) · [Live Demo](COLOQUE_O_LINK_DO_DEPLOY)
 
 ### 🎬 Studio Ghibli Films
 
-Web application for browsing Studio Ghibli movies and viewing detailed information.
+Movie browsing application built with **React**, featuring API integration, sorting, and detailed movie pages.
 
-Main features:
-- API integration
-- Movie listing
-- Sorting
-- Movie details
-- Responsive interface
-
-**[View Repository](COLOQUE-AQUI-O-LINK)** · **[Live Demo](COLOQUE-AQUI-O-LINK)**
-
----
-
-## 📚 Currently Learning
-
-- Back-end development
-- SQL and databases
-- Full-stack application development
+[Repository](https://github.com/israel-monteiro/studio-ghibli-films) · [Live Demo](COLOQUE_O_LINK_DO_DEPLOY)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180" src="./profile/stats.svg"/>
-  <img height="180" src="./profile/top-langs.svg"/>
-</div>
+  <a href="https://github.com/israel-monteiro">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=israel-monteiro&show_icons=true&include_all_commits=true&theme=noctis_minimus" alt="Israel Monteiro's GitHub Stats" />
+  </a>
 
+  <a href="https://github.com/israel-monteiro">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=israel-monteiro&layout=compact&langs_count=4&theme=noctis_minimus" alt="Most Used Languages" />
+  </a>
+</div>
 ---
 
 ## 📫 Contact
