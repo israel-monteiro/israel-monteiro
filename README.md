@@ -22,4 +22,4 @@
   <a href = "mailto:israelmonteiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-[![Israel Monteiro GitHub stats](https://github-stats-extended.vercel.app/api?username=israel-monteiro)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=israel-monteiro&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=israel-monteiro&layout=compact&langs_count=4)
